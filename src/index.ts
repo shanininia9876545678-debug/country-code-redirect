@@ -5,7 +5,7 @@ export default {
 		 * @param {Object} countryMap
 		 */
 		const countryMap = {
-			PK: "http://addgenz.com/us",
+			PK: "http://google.com/",
 			EU: "http://addgenz.com/eu",
 		};
 
