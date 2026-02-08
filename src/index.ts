@@ -5,8 +5,8 @@ export default {
 		 * @param {Object} countryMap
 		 */
 		const countryMap = {
-			US: "https://example.com/us",
-			EU: "https://example.com/eu",
+			PK: "http://addgenz.com/us",
+			EU: "http://addgenz.com/eu",
 		};
 
 		// Use the cf object to obtain the country of the request
